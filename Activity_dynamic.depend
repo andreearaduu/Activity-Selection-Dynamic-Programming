@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1528139390 source:c:\users\andre\desktop\project_ad\activity_dynamic\get_max_activities.c
+	"get.h"
+	<stdlib.h>
+
+1528138735 c:\users\andre\desktop\project_ad\activity_dynamic\get.h
+
+1528143062 source:c:\users\andre\desktop\project_ad\activity_dynamic\generate_activities.c
+	"generate.h"
+	<time.h>
+	<stdlib.h>
+
+1528139005 c:\users\andre\desktop\project_ad\activity_dynamic\generate.h
+	"get.h"
+
+1528142826 source:c:\users\andre\desktop\project_ad\activity_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"get.h"
+	"generate.h"
+	"sort.h"
+	"print.h"
+
+1528139094 c:\users\andre\desktop\project_ad\activity_dynamic\sort.h
+	"get.h"
+
+1528142486 source:c:\users\andre\desktop\project_ad\activity_dynamic\sort.c
+	"sort.h"
+	<stdio.h>
+
+1528142486 source:c:\users\andre\desktop\project_ad\activity_dynamic\print.c
+	<stdio.h>
+	"print.h"
+
+1528142326 c:\users\andre\desktop\project_ad\activity_dynamic\print.h
+	"get.h"
+
+1528198390 source:c:\users\andre\desktop\projectad\activity_dynamic\activities.c
+	<stdlib.h>
+	<time.h>
+	"activities.h"
+
+1528198305 c:\users\andre\desktop\projectad\activity_dynamic\activities.h
+	"get.h"
+
+1528198305 c:\users\andre\desktop\projectad\activity_dynamic\get.h
+
+1528198390 source:c:\users\andre\desktop\projectad\activity_dynamic\get_max_activities.c
+	"get.h"
+	<stdlib.h>
+
+1528198463 source:c:\users\andre\desktop\projectad\activity_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"get.h"
+	"activities.h"
+	"sort.h"
+	"print.h"
+
+1528198122 c:\users\andre\desktop\projectad\activity_dynamic\sort.h
+	"get.h"
+
+1528198122 c:\users\andre\desktop\projectad\activity_dynamic\print.h
+	"get.h"
+
+1528198305 source:c:\users\andre\desktop\projectad\activity_dynamic\print.c
+	<stdio.h>
+	"print.h"
+	"get.h"
+
+1528198062 source:c:\users\andre\desktop\projectad\activity_dynamic\sort.c
+	"sort.h"
+	<stdio.h>
+
